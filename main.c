@@ -4,7 +4,7 @@ int main()
 
 {
     
-    printf("helo world\n")
+    printf("Helo world\n")
     return 0;
 
 }
